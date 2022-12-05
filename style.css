@@ -1,0 +1,10 @@
+*{
+    font-family: cursive;
+}
+
+body{
+    background: radial-gradient(circle,lightblue,grey);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
